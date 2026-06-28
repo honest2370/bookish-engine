@@ -17,7 +17,7 @@
 ✅ STEP 2: Deploy on Vercel (1 minute)
    → Go to Vercel Dashboard
    → Click "Redeploy"
-   → Wait 2 minutes
+   → Wait 2 minute
    
 ✅ STEP 3: Test (1 minute)
    → Visit your live URL
